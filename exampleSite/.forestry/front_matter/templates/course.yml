@@ -49,3 +49,4 @@ fields:
   default: course
 pages:
 - exampleSite/content/english/course/java-course.md
+- exampleSite/content/english/course/java-course.md
